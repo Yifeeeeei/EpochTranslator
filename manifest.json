@@ -1,5 +1,5 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 3,
     "name": "Epoch Translator",
     "version": "1.0.0",
     "description": "Convert Unix timestamps to human-readable times and vice versa, showing both UTC and Local outputs.",
